@@ -1,10 +1,10 @@
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
+# Template Flask 
+template project for Flask Application
+[Python Flask](http://flask.pocoo.org/)
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install project.
 
 ```bash
 pip freeze > requirements.txt
