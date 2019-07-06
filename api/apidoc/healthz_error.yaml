@@ -1,0 +1,5 @@
+hello_error API
+---
+responses:
+  500:
+    description: "에러메시지"

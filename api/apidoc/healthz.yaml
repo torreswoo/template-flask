@@ -1,0 +1,5 @@
+hello API
+---
+responses:
+  200:
+    description: "환영 메시지"
